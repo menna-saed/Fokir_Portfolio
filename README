@@ -1,0 +1,31 @@
+## Overview
+
+Fokir is a small personal/business website that showcases products and services in a simple and elegant way. It provides an overview of offerings with images, descriptions, and a clean responsive layout.
+
+## Features
+
+* Responsive design
+* Products and services listing
+* Simple contact/info section
+
+## Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
+## Installation
+
+```bash
+git clone https://github.com/menna-saed/Fokir_Website.git
+cd Fokir_Website
+```
+
+## Project Status
+
+Finished ✅
+
+## Developer
+
+Developed by Menna Allah Saed
