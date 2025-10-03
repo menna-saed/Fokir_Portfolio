@@ -6,7 +6,7 @@ Fokir is a small personal/business website that showcases products and services 
 
 * Responsive design
 * Products and services listing
-* Simple contact/info section
+* Simple Portfolio/Services/Client's Feedback/Blog/contact/info section
 
 ## Tech Stack
 
@@ -14,6 +14,7 @@ Fokir is a small personal/business website that showcases products and services 
 * CSS
 * JavaScript
 * Bootstrap
+* Font Awesome (icons)
 
 ## Installation
 
